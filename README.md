@@ -1,13 +1,9 @@
-# JEMS-database-project
+# CSUF File Structures and Database Systems Project
+## Jems Inc. Database
+### Project Goals
+- Worked with a team to create a database for a mock company.
+- Created an ER diagram, relational model, and physical model to outline our work
+- Capabilities include tracking inventory, storing customer personal and payment information, and recording orders.
+- Keeps track of which customers are premium members and ensures they receive promotions according to their status (discounts, exclusive products, etc.)
 
-Project for CPSC 332 at CSUF
-
-Our client named The Perfect Jem asked our company JEMS Inc. to design them
-a database for their imperfect and imitation jewelry store. The capabilities of the
-Database range from tracking inventory, storing customer’s personal and payment
-information, and recording orders. With regards to products the database stores product
-and supplier information. In addition, the database keeps track of which customers are
-members, what discount they receive on their purchase, and what products are
-exclusive to them.
-
-Design process and more information can be found in the project report pdf.
+Design process and further information can be found in the project report pdf.
