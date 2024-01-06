@@ -1,9 +1,11 @@
 # CSUF File Structures and Database Systems Project
 ## Jems Inc. Database
-### Project Goals
-- Worked with a team to create a database for a mock company (The Perfect Jem).
-- Created an ER diagram, relational model, and physical model to outline our work
-- Capabilities include tracking inventory, storing customer personal and payment information, and recording orders.
-- Keeps track of which customers are premium members and ensures they receive promotions according to their status (discounts, exclusive products, etc.)
+- Developed a robust database system for "The Perfect Jem," managing inventory, customer details and orders..
+- Created SQL queries for database creation, data insertion, and integrity checks.
+- Implemented views and triggers to meet specific requirements, optimizing functionality.
+- Designed and executed a user-friendly website interface for easy navigation and functionality display.
+- Addressed challenges in the relational model and actively contributed to design decisions.
+- Collaborated with a team to ensure timely and effective project completion.
+
 
 Project parameters, design process, full list of SQL queries, and further information about the project can be seen in the report pdf.
